@@ -11,7 +11,7 @@ I'm an **Entry-Level Data Engineer** with a passion for transforming data into v
 - 🛠️ My toolset: **SQL, Python, Excel, Power BI, DAX, Data Modeling**
 - ☁️ Cloud experience: **Azure (pipelines, data integration, storage)**
 - 🤝 Open to collaborating on: **ETL processes, analytics, reporting, and data automation**
-- 📫 How to reach me: [YourEmail@example.com] | [LinkedIn](https://linkedin.com/in/yourlinkedin)
+- 📫 How to reach me: [sallieakpan@gmail.com] | [LinkedIn](linkedin.com/in/salome-akpan)
 
 ---
 
@@ -47,7 +47,7 @@ I'm an **Entry-Level Data Engineer** with a passion for transforming data into v
 
 ## 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="linkedin.com/in/salome-akpan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
 <!-- Add your email address or other social links if desired. -->
