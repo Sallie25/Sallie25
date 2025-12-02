@@ -28,7 +28,7 @@ I'm an **Entry-Level Data Engineer** with a passion for transforming data into v
   Zentel Network Service – Ticket Performance Analysis.
 
 - **[de-week3-advancedtesting-Salome](https://github.com/Sallie25/de-week3-advancedtesting-Salome):**
-  (No description yet. Consider updating this project with a README and details!)
+  Automated Python pipeline for ingesting, validating, and processing order data with advanced ETL testing and error handling.
 
 ### 🔵 SQL Projects
 - **[employee-project-management-sql](https://github.com/Sallie25/employee-project-management-sql):**
