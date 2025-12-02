@@ -41,7 +41,19 @@ I'm an **Entry-Level Data Engineer** with a passion for transforming data into v
   Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
   
 ---
+## 🗂️ Project Portfolio
 
+### 🟠 Python Data Pipelines
+- [de-week4-advancedpipeline-salome](...)
+- [Zentel_pipeline](...)
+
+### 🔵 SQL Projects
+- [employee-project-management-sql](...)
+- [sql_data_warehouse_project_sallie-s_version](...)
+
+### 🟢 Dashboards
+- [Customer_Churn_Report](...)
+---
 
 ## 🧰 Skills & Tools
 
