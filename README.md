@@ -14,6 +14,34 @@ I'm an **Entry-Level Data Engineer** with a passion for transforming data into v
 - 📫 How to reach me: [sallieakpan@gmail.com] | [LinkedIn](linkedin.com/in/salome-akpan)
 
 ---
+## 🚩 Highlighted Projects
+
+### 🟢 Excel Dashboard
+- **[Customer_Churn_Report](https://github.com/Sallie25/Customer_Churn_Report):**
+  Explores patterns behind customer attrition using data cleaning, exploratory analysis, and predictive modeling. Identifies key factors driving churn to help businesses proactively retain customers.
+
+### 🟠 Python Data Pipeline Projects
+- **[de-week4-advancedpipeline-salome](https://github.com/Sallie25/de-week4-advancedpipeline-salome):**
+  Modular Python pipeline for efficient API data ingestion, enrichment, and analysis.
+
+- **[Zentel_pipeline](https://github.com/Sallie25/Zentel_pipeline):**
+  Zentel Network Service – Ticket Performance Analysis.
+
+- **[de-week3-advancedtesting-Salome](https://github.com/Sallie25/de-week3-advancedtesting-Salome):**
+  (No description yet. Consider updating this project with a README and details!)
+
+### 🔵 SQL Projects
+- **[employee-project-management-sql](https://github.com/Sallie25/employee-project-management-sql):**
+  Relational database design and advanced queries for managing employees, departments, and project assignments.
+
+- **[employee-performance-automation-SQL](https://github.com/Sallie25/employee-performance-automation-SQL):**
+  SQL-driven HR automation—tracks performance, manages salaries, logs terminations, and schedules increments.
+
+- **[sql_data_warehouse_project_sallie-s_version](https://github.com/Sallie25/sql_data_warehouse_project_sallie-s_version):**
+  Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
+  
+---
+
 
 ## 🧰 Skills & Tools
 
