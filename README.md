@@ -1,13 +1,13 @@
 # Hi there, I'm Sallie 👋
 
-I'm an **Entry-Level Data Engineer** with a passion for transforming data into valuable insights and building efficient data pipelines. My background blends hands-on experience with Python for ETL, SQL, Excel, Power BI, DAX, Data Modeling, and Azure cloud tools. I’m focused on learning, growing, and contributing to impactful data projects that help organizations solve real-world problems.
+I'm an **Entry-Level Data Engineer** with a passion for transforming data into valuable insights and building efficient data pipelines. My background blends hands-on experience with Python for ETL,[...]
 
 ---
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on: **Building data pipelines and automating ETL tasks**
-- 🌱 I’m learning: **Advanced Python for Data Engineering, Azure Data Factory, Cloud Data Architecture**
+- 🔭 I'm currently working on: **Building data pipelines and automating ETL tasks**
+- 🌱 I'm learning: **Advanced Python for Data Engineering, Azure Data Factory, Cloud Data Architecture**
 - 🛠️ My toolset: **SQL, Python, Excel, Power BI, DAX, Data Modeling**
 - ☁️ Cloud experience: **Azure (pipelines, data integration, storage)**
 - 🤝 Open to collaborating on: **ETL processes, analytics, reporting, and data automation**
@@ -16,9 +16,16 @@ I'm an **Entry-Level Data Engineer** with a passion for transforming data into v
 ---
 ## 🚩 Highlighted Projects
 
+### 📦 Data Engineering & Infrastructure
+
+- **[docker_terrafoam_project](https://github.com/Sallie25/docker_terrafoam_project):**
+  A comprehensive data engineering project demonstrating containerized infrastructure and data pipeline management using Docker, Docker Compose, PostgreSQL, pgAdmin, and Terraform. Features multi-container orchestration, data ingestion pipelines for NYC taxi datasets, advanced SQL queries for analytics, and Infrastructure as Code (IaC) workflows.
+  - **Technologies:** Docker, Docker Compose, PostgreSQL, pgAdmin, Terraform, Python, SQL
+  - **Highlights:** Container networking, data ingestion automation, Terraform workflows, comprehensive SQL analytics
+
 ### 🟢 Excel Dashboard
 - **[Customer_Churn_Report](https://github.com/Sallie25/Customer_Churn_Report):**
-  Explores patterns behind customer attrition using data cleaning, exploratory analysis, and predictive modeling. Identifies key factors driving churn to help businesses proactively retain customers.
+  Explores patterns behind customer attrition using data cleaning, exploratory analysis, and predictive modeling. Identifies key factors driving churn to help businesses proactively retain custome[...]
 
 ### 🟠 Python Data Pipeline Projects
 - **[de-week4-advancedpipeline-salome](https://github.com/Sallie25/de-week4-advancedpipeline-salome):**
@@ -51,6 +58,9 @@ I'm an **Entry-Level Data Engineer** with a passion for transforming data into v
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-133B5C?logo=data&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B8BBE?logo=data&logoColor=white)
 
 ---
