@@ -69,6 +69,10 @@ Engineering Lab tracks lifecycle **in addition to** each project's primary techn
 
 - [FastAPI Beyond CRUD](https://github.com/Sallie25/fastapi-beyond-CRUD) · **Fork / learning reference** — course material for studying FastAPI patterns; upstream work is not presented as my project implementation.
 
+## Portfolio
+
+- **Live portfolio:** [View my portfolio and CV](https://rococo-panda-0cea0a.netlify.app/)
+
 ## Contact
 
 - **Email:** [sallieakpan@gmail.com](mailto:sallieakpan@gmail.com)
