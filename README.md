@@ -1,95 +1,76 @@
-# Hi there, I'm Sallie 👋
+# Salome Gabriel Akpan
 
-I'm an **Entry-Level Data Engineer** with a passion for transforming data into valuable insights and building efficient data pipelines. My background blends hands-on experience with Python for ETL,[...]
+**Python-Focused Data Engineer** working across financial reconciliation, reporting automation, customer analytics, and database development. I use Python and SQL to turn raw data into structured workflows, relational systems, and useful analytical models.
 
----
+**Technical focus:** Python, SQL, PostgreSQL, ETL, data validation, dbt, dimensional modelling, SQLAlchemy, Alembic, Docker, Power BI, Power Query, and Excel VBA.
 
-## 💡 About Me
+## Selected projects
 
-- 🔭 I'm currently working on: **Building data pipelines and automating ETL tasks**
-- 🌱 I'm learning: **Advanced Python for Data Engineering, Azure Data Factory, Cloud Data Architecture**
-- 🛠️ My toolset: **SQL, Python, Excel, Power BI, DAX, Data Modeling**
-- ☁️ Cloud experience: **Azure (pipelines, data integration, storage)**
-- 🤝 Open to collaborating on: **ETL processes, analytics, reporting, and data automation**
-- 📫 How to reach me: [sallieakpan@gmail.com] | [LinkedIn](linkedin.com/in/salome-akpan)
+| Project | Engineering work | Status |
+| --- | --- | --- |
+| [Marketing Analytics dbt Pipeline](https://github.com/Sallie25/marketing-analytics-dbt-pipeline) · **AE-02** | Standardises Facebook and Snapchat advertising data through nine source definitions and nine staging models. An incremental model with a seven-day lookback feeds four dimensions and a fact table; a snapshot and two SQL assertions define change tracking and quality checks. | **Complete** |
+| [Python ETL Pipeline](https://github.com/Sallie25/etl-pipeline-dataepic) · **DE-01** | Separates full-file and incremental JSON ingestion, transformation, and PostgreSQL loading. The code defines 50-record default batches, JSONB staging, clean-record upserts, rejected-record handling, and per-source checkpoints. | **Complete** |
+| [Logistics Database](https://github.com/Sallie25/logistics_db_project) · **BE-05** | Models 13 related logistics entities with SQLAlchemy. Six Alembic revision files, seed scripts, a shipment repository, ERDs, and query artifacts document the schema and data-access approach. | **Complete** |
+| [ScrapMart](https://github.com/Sallie25/ScrapMart) · **BE-05 / LAB-06** | Developing a FastAPI marketplace backend. The public foundation includes PostgreSQL/SQLAlchemy configuration, Alembic setup, modular packages, and two health/readiness routes. Marketplace workflows remain in development. | **In Progress** |
 
----
-## 🚩 Highlighted Projects
+## Professional Experience & Impact
 
-### 📦 Data Engineering & Infrastructure
+- **FCMB · Reconciliation Control Data Analyst** (June–December 2024): Reconciled financial transaction data with Oracle SQL and Power Query, built Power BI reporting, and automated recurring workflows with Excel VBA and macros, contributing to an **estimated 40% reduction in manual processing time**.
+- **First Rent to Own · Customer Service & Data Analytics Associate** (December 2024–January 2026): Analysed Convoso and Zendesk interaction data, conversion measures, and customer behaviour for CRM and operational reporting.
+- **Aspir · Volunteer Database Developer** (July–September 2025): In a **voluntary** role, reviewed relational schemas and SQL logic, checked data consistency, and documented database decisions.
+- **Freelance Data Analyst · Self-Employed** (January 2023–Present): Cleaned and explored client data with Python and SQL, produced reports and dashboards, and communicated findings to stakeholders.
 
-- **[docker_terrafoam_project](https://github.com/Sallie25/docker_terrafoam_project):**
-  A comprehensive data engineering project demonstrating containerized infrastructure and data pipeline management using Docker, Docker Compose, PostgreSQL, pgAdmin, and Terraform. Features multi-container orchestration, data ingestion pipelines for NYC taxi datasets, advanced SQL queries for analytics, and Infrastructure as Code (IaC) workflows.
-  - **Technologies:** Docker, Docker Compose, PostgreSQL, pgAdmin, Terraform, Python, SQL
-  - **Highlights:** Container networking, data ingestion automation, Terraform workflows, comprehensive SQL analytics
+## DE-01 — Data Engineering
 
-### 🟢 Excel Dashboard
-- **[Customer_Churn_Report](https://github.com/Sallie25/Customer_Churn_Report):**
-  Explores patterns behind customer attrition using data cleaning, exploratory analysis, and predictive modeling. Identifies key factors driving churn to help businesses proactively retain custome[...]
+- [Automated CSV-to-SQL Pipeline](https://github.com/Sallie25/automated_csv-to-sql-pipeline) · **Complete** — Python/pandas cleaning across 11 committed CSV inputs and five transformation stages, followed by per-file SQLite loading, metadata tracking, and error logging.
+- [Beejan Conceptual Pipeline](https://github.com/Sallie25/beejan-technologies-conceptual-pipeline) · **Complete conceptual design** — a documented complaint-data flow and architecture diagram; this is a design deliverable rather than an implemented pipeline.
 
-### 🟠 Python Data Pipeline Projects
-- **[de-week4-advancedpipeline-salome](https://github.com/Sallie25/de-week4-advancedpipeline-salome):**
-  Modular Python pipeline for efficient API data ingestion, enrichment, and analysis.
+The completed [Python ETL Pipeline](https://github.com/Sallie25/etl-pipeline-dataepic) is featured above.
 
-- **[Zentel_pipeline](https://github.com/Sallie25/Zentel_pipeline):**
-  Zentel Network Service – Ticket Performance Analysis.
+## AE-02 — Analytics Engineering
 
-- **[de-week3-advancedtesting-Salome](https://github.com/Sallie25/de-week3-advancedtesting-Salome):**
-  Automated Python pipeline for ingesting, validating, and processing order data with advanced ETL testing and error handling.
+The completed [Marketing Analytics dbt Pipeline](https://github.com/Sallie25/marketing-analytics-dbt-pipeline) is featured above.
 
-### 🔵 SQL Projects
-- **[employee-project-management-sql](https://github.com/Sallie25/employee-project-management-sql):**
-  Relational database design and advanced queries for managing employees, departments, and project assignments.
+## DA-03 — Data Analysis & Business Intelligence
 
-- **[employee-performance-automation-SQL](https://github.com/Sallie25/employee-performance-automation-SQL):**
-  SQL-driven HR automation—tracks performance, manages salaries, logs terminations, and schedules increments.
+- [Customer Churn Report](https://github.com/Sallie25/Customer_Churn_Report) · **Complete** — an analysis presentation with a churn narrative and exported charts.
 
-- **[sql_data_warehouse_project_sallie-s_version](https://github.com/Sallie25/sql_data_warehouse_project_sallie-s_version):**
-  Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
-  
----
+## PY-04 — Python Software Development
 
+Python software exercises are listed under [Learning & Technical Foundations](#learning--technical-foundations) to keep coursework distinct from independent project implementations.
 
-## 🧰 Skills & Tools
+## BE-05 — Backend & Database Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-133B5C?logo=data&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B8BBE?logo=data&logoColor=white)
+- [Employee & Project Management Database](https://github.com/Sallie25/employee-project-management-sql) · **Complete** — a four-table employee/project schema with foreign keys, seed records, and SQL joins, aggregates, and data-change queries.
+- [Employee Performance Automation SQL](https://github.com/Sallie25/employee-performance-automation-SQL) · **Complete** — SQL defines CASE-based income classification, RANK window queries, a highest-earner stored procedure, an employee-termination logging trigger, and a monthly scheduled salary event.
 
----
+The completed [Logistics Database](https://github.com/Sallie25/logistics_db_project) and in-progress [ScrapMart](https://github.com/Sallie25/ScrapMart) are featured above.
 
-## 📈 GitHub Stats
+## LAB-06 — Engineering Lab
 
-![Sallie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sallie25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Sallie25&layout=compact)
+Engineering Lab tracks lifecycle **in addition to** each project's primary technical specialisation. These entries are at different stages:
 
----
+| Project | Technical home | Current stage |
+| --- | --- | --- |
+| [ScrapMart](https://github.com/Sallie25/ScrapMart) | BE-05 | **Active Development** — backend foundation in progress. |
+| [SQL Data Warehouse, Salome version](https://github.com/Sallie25/sql_data_warehouse_project_sallie-s_version) | DE-01 | **Incomplete learning exercise** — SQL Server setup and Bronze-layer loading scripts; Silver and Gold layers are not present in this version. |
+| [Marketing Data Platform with dbt](https://github.com/Sallie25/marketing-data-platform-dbt) | AE-02 | **Planned Enhancement / deferred** — architecture notes for a platform direction; no dbt models in this repository. |
 
-## 📌 Pinned Projects
+## Learning & Technical Foundations
 
-<a href="https://github.com/Sallie25/entry-level-etl-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sallie25&repo=entry-level-etl-pipeline&theme=radical" />
-</a>
-<a href="https://github.com/Sallie25/powerbi-starter-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sallie25&repo=powerbi-starter-dashboard&theme=radical" />
-</a>
+**Learning exercises and coursework**
 
----
+- [Linux & Git ETL Exercise](https://github.com/Sallie25/linux_git_project) · **DE-01 · Complete learning project** — Bash and awk scripts for CSV download, column selection, and file movement, with cron notes.
+- [PyFleet Vehicle Management](https://github.com/Sallie25/vehicle_management_system) · **PY-04 · Complete learning project** — object-oriented vehicle and rental-manager classes.
+- [Number Guessing Game](https://github.com/Sallie25/guess-game-project) and [Demographic Data Collector](https://github.com/Sallie25/salome_biodata) · **PY-04 · Complete learning projects** — small Python exercises in control flow and input handling.
+- [MIT Python course exercises](https://github.com/Sallie25/MIT-CS-Programming-Python) and [Data Engineering Zoomcamp Workflow](https://github.com/Sallie25/Data_Engineering_ZoomCamp_Workflow) · **Coursework** — practice repositories, separate from the featured projects.
 
-## 🌐 Connect with Me
+**Forked reference material**
 
-<a href="linkedin.com/in/salome-akpan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
-<!-- Add your email address or other social links if desired. -->
+- [FastAPI Beyond CRUD](https://github.com/Sallie25/fastapi-beyond-CRUD) · **Fork / learning reference** — course material for studying FastAPI patterns; upstream work is not presented as my project implementation.
 
----
+## Contact
 
-**Fun fact:** I enjoy simplifying complex data processes so anyone can understand them and take action!
+- **Email:** [sallieakpan@gmail.com](mailto:sallieakpan@gmail.com)
+- **LinkedIn:** [linkedin.com/in/salome-akpan](https://linkedin.com/in/salome-akpan)
+- **GitHub:** [github.com/Sallie25](https://github.com/Sallie25)
